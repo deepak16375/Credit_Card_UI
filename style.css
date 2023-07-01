@@ -139,3 +139,9 @@ h5.name {
   font-size: 8px;
   margin-top: 15px;
 }
+@media (max-width:450px) {
+section{
+  overflow: hidden;
+}
+  
+}
